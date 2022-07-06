@@ -160,6 +160,37 @@ ul {
   text-align: right;
 }
 
+.call-to-action .container {
+  margin: 80px auto;
+  padding: 48px 110px;
+  background-color: #3882f6;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.call-to-action .call {
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.call-to-action .text {
+  color: #e5e7eb;
+}
+
+.call-to-action button {
+  color: #f9faf8;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #3882f6;
+  border-radius: 8px;
+  border: 2px solid #f9faf8;
+  padding: 8px 32px;
+  margin-top: 8px;
+}
+
 .footer {
   display: flex;
   justify-content: center;
